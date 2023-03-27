@@ -35,7 +35,7 @@
 //     this.soHH=function(){
 //         let tongUoc = 0;
 //         for (let i = 1; i < this.so; i++) {
-//           if (this.so % i === 0) {
+//           if (this.so % i == 0) {
 //             tongUoc += i;
 //           }
 //         }
